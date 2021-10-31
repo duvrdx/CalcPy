@@ -16,11 +16,9 @@ This project is in developement:
 ## 💻 Pre-Requirements
 
 Before start, certify that you have these requirements:
-* You have the LTS version of `Python and PyQt5`
+* You have the LTS version of `Python and PyQt5`.
 * You have a  `Windows, Linux or Mac`.
 
 ## ☕ Using CalcPy
 
 To use __CalcPy__, you only need to run the _main.py_:
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
