@@ -1,4 +1,4 @@
-# __CalcPy - Made with Python and Qt5__
+# __🖩 CalcPy - Made with Python and Qt5 🖩__
 
 <img src="./src/example_image.png"  width="210" margin="20px" alt="exemplo imagem">
 
